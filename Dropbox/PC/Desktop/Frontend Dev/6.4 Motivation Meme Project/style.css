@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+    text-transform: uppercase;
+}
+div{
+    color:white;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    font-size: large;
+}
+img{
+    border: 5px solid white;
+    width: 100%;
+}
+header{
+    padding: 60px;
+    background-color: rgb(161, 161, 161);
+    border: 10px solid rgb(161, 161, 161);
+    border-radius: 0px 0px 20px 20px;
+}
+footer{
+    padding: 40px;
+    background-color: rgb(161, 161, 161);
+    border: 10px solid rgb(161, 161, 161);
+    border-radius: 20px 20px 0px 0px;
+}
+#heading{
+    text-align: center;
+    color: black;
+    font-size: 40px;
+}
+#heading2{
+    font-size: 35px;
+    font-family: 'Titillium Web', sans-serif;
+}
